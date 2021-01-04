@@ -13,8 +13,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "lr-sticky-header": "git://github.com/brendan-ma/jquery-patch.git"
-  }
+  ]
 }
